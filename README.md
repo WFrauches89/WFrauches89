@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&pause=1000&color=00D800&vCenter=true&random=false&width=435&lines=Ola%2C+mundo!++%3D%5D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&pause=50&color=00D800&vCenter=true&random=false&width=435&lines=Ola%2C+mundo!;Bora+codar!++%3D%5D)](https://git.io/typing-svg)
+
 
 # ✨ Wanderson Costa Frauches Junior ✨
 
@@ -50,5 +51,5 @@
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WFrauches89&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WFrauches89&theme=dracula&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WFrauches89&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
