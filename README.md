@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&pause=50&color=00D800&vCenter=true&random=false&width=435&lines=Ola%2C+mundo!;Bora+codar!++%3D%5D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&pause=50&color=00D800&vCenter=true&random=false&width=435&lines=Talk%2C+is+cheap!;Show+me+the+code!++%3D%5D)](https://git.io/typing-svg)
 
 
 # ✨ Wanderson Costa Frauches Junior ✨
