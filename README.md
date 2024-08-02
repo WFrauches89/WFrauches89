@@ -19,34 +19,34 @@ Linus Tovard.
 [![WhatsApp](https://img.shields.io/badge/-+55996116262-000?style=for-the-badge&logo=whatsapp&logoColor=62b1d4&color:FFF)](https://api.whatsapp.com/send?phone=5522996119262)
 
 
-### 🌱Estudando... 🌱
+### Tecnologias 
 
 <div>
 <img align="center" alt="Java" height="30" width="30"src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-<img align="center" alt="Spring" height="30" width="30"src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-<img align="center" alt="Tomcat" height="30" width="30"src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg">
+<img align="center" alt="C#" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+<img align="center" alt="React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" alt="Angular" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSul8Y6IPxOXailHV6X5R_0bym3DIDLLJQ2tA&s">
 <img align="center" alt="html5" height="30" width="30"src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">   
 <img align="center" alt="CSS3" height="30" width="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
 <img align="center" alt="Javascript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 <img align="center" alt="Typescript" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
 <br><br>
 <img align="center" alt="Node-Js" height="30" width="30" src="https://pluspng.com/img-png/nodejs-png--400.png">
+<img align="center" alt="Spring" height="30" width="30"src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+<img align="center" alt="React" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
 <img align="center" alt="git"   height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 <img align="center" alt="github"   height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
 <img align="center" alt="bootstrap" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
 <img align="center" alt="figma" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
 <img align="center" alt="npm" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
-<img align="center" alt="React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" alt="Nuget" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/NuGet_project_logo.svg/2048px-NuGet_project_logo.svg.png">
 <br><br>
-<img align="center" alt="React" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-<img align="center" alt="C#" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
 <img align="center" alt="Python" height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png">
 <img align="center" alt="Docker" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
 <img align="center" alt="Firebase" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
 <img align="center" alt="Selenium" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
 <img align="center" alt="Excel"   height="30" width="30" src="https://www.kaptiva.ca/wp-content/uploads/2019/06/formation-excel.png">
-</div>
- <br>
+</div><br>
 
 <div align="center">
 <br><p align="centre"><b>Visitantes</b></p>  
