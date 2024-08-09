@@ -33,6 +33,7 @@ Linus Tovard.
 <br><br>
 <img align="center" alt="Node-Js" height="30" width="30" src="https://pluspng.com/img-png/nodejs-png--400.png">
 <img align="center" alt="Spring" height="30" width="30"src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+<img align="center" alt="EntityFrameworkCore" height="30" width="30"src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png">
 <img align="center" alt="React" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
 <img align="center" alt="git"   height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 <img align="center" alt="github"   height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
