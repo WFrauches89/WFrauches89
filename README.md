@@ -24,6 +24,7 @@ Linus Tovard.
 <div>
 <img align="center" alt="Java" height="30" width="30"src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 <img align="center" alt="C#" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+<img align="center" alt="C" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
 <img align="center" alt="React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="Angular" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSul8Y6IPxOXailHV6X5R_0bym3DIDLLJQ2tA&s">
 <img align="center" alt="html5" height="30" width="30"src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">   
