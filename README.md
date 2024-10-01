@@ -13,10 +13,6 @@ Linus Tovard.
 
 ### 📫 Conecte-se comigo 📫
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=WFrauches89&amp;show_icons=true&theme=dark" alt="github stats"></p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WFrauches89&layout=compact)
-
 [![Perfil DIO](https://img.shields.io/badge/-Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/wfrauches89)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:wfrauches89@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/wanderson-frauches/)
@@ -24,6 +20,10 @@ Linus Tovard.
 
 
 ### Tecnologias 
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=WFrauches89&amp;show_icons=true&theme=dark" alt="github stats"></p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WFrauches89&layout=compact)
 
 <div>
 <img align="center" alt="Java" height="30" width="30"src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
