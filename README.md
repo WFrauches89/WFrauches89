@@ -21,8 +21,6 @@ Linus Tovard.
 
 ### Tecnologias 
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=WFrauches89&amp;show_icons=true&theme=dark" alt="github stats"></p>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WFrauches89&layout=compact)
 
 <div>
@@ -59,3 +57,5 @@ Linus Tovard.
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{WFrauches89}/count.svg" /></p> 
 <br>
 </div>
+
+
